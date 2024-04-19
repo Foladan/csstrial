@@ -4,7 +4,7 @@
 }
 body {
     background-color: cornflowerblue;
-    /* background-image: url(pngtree.jpg); */
+    /* background-image: url(assets/pngtree.jpg); */
     background-repeat: no-repeat;
 }
 p.center{
@@ -23,7 +23,7 @@ h1, h2, p {
     color: red;
 }
 p {
-    /* background-image: url(paper.jpg); */
+    /* background-image: url(assets/paper.jpg); */
 }
 p.dotted{
     border-style: dotted;
