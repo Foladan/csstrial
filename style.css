@@ -23,7 +23,7 @@ h1, h2, p {
     color: red;
 }
 p {
-    background-image: url(assets/paper.jpg);
+    /* background-image: url(assets/paper.jpg); */
 }
 p.dotted{
     border-style: dotted;
